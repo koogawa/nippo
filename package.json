@@ -1,0 +1,17 @@
+{
+  "name": "nippo",
+  "version": "1.0.0",
+  "description": "Super nippo tool",
+  "author": "koogawa",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
